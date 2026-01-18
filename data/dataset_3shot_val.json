@@ -1,0 +1,112 @@
+{
+    "Giraffe": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Giraffe/39677841_01e882b666_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Giraffe/89015637_18b014815c_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Giraffe/476158438_16f0bfdf6b_o.npy"
+    ],
+    "Lion": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Lion/392575238_80a2434af1_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Lion/402852302_0529c2d4f8_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Lion/2250932115_a6a75bb1b9_o.npy"
+    ],
+    "Rabbit": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Rabbit/2425318471_04d5c4ce28_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Rabbit/3423114689_81d0125298_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Rabbit/168688764_529bf25a3f_o.npy"
+    ],
+    "Chameleon": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Chameleon/153859737_b2e845722a_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Chameleon/3234940647_1678392703_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Chameleon/2323160640_7c04e466da_o.npy"
+    ],
+    "Monkey": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Monkey/2079669395_4a5164cd8d_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Monkey/1942541_21f7e8bc8d_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Monkey/1347260292_1f167623c2_o.npy"
+    ],
+    "Heron": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Heron/139739073_c1a9b0ae3a_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Heron/232873261_b2f3c0288e_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Heron/477384068_fe2cb24839_o.npy"
+    ],
+    "Gecko": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Gecko/164172462_71a7fd0eaa_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Gecko/64610_4abd3fb039_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Gecko/67385274_fd36330da8_o.npy"
+    ],
+    "Deer": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Deer/660016740_186cdd6d9d_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Deer/762994824_60c1706f8e_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Deer/2696449896_819c193381_o.npy"
+    ],
+    "Snake": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Snake/250779865_d0d51b80a9_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Snake/2957786659_bdd052b461_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Snake/2410254405_8cf8f1bb8d_o.npy"
+    ],
+    "Bird": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Bird/2748359674_41467343c7_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Bird/15276975394_9a09ae3226_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Bird/13996359254_af687e4cc5_o.npy"
+    ],
+    "Frogmouth": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Frogmouth/1915340552_c86762f3c4_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Frogmouth/4203115854_00f7f039aa_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Frogmouth/3524219713_9a2879420c_o.npy"
+    ],
+    "Bat": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Bat/163247367_0af532277e_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Bat/2883620034_e51bb9d488_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Bat/207588986_04a601418a_o.npy"
+    ],
+    "Cheetah": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Cheetah/269976345_db0b39c1f9_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Cheetah/312325101_d569d0b8b6_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Cheetah/4394870935_445937afd3_o.npy"
+    ],
+    "Frog": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Frog/2539910592_71dc7dd73e_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Frog/64151324_f14613287b_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Frog/33636785_4988851132_o.npy"
+    ],
+    "Leopard": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Leopard/3262622669_b89bb664cc_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Leopard/2705422171_07b3ebdcce_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Leopard/347519346_d5c5a4252f_o.npy"
+    ],
+    "Grouse": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Grouse/5137434840_1ce929d1c9_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Grouse/4511638486_02952ebc38_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Grouse/8007841481_89dd7b9a43_o.npy"
+    ],
+    "Kangaroo": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Kangaroo/2175619154_51389ea546_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Kangaroo/3128331363_240d3880b7_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Kangaroo/2667207676_2803fd46d1_o.npy"
+    ],
+    "Tiger": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Tiger/4872067391_9e582479f1_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Tiger/3851956660_a41b73af8f_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Tiger/2615091310_0ec23dae70_o.npy"
+    ],
+    "Wolf": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Wolf/4332272919_8190ef71cc_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Wolf/4381522039_e4b4f65a3f_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Wolf/6980789329_577f9f811d_o.npy"
+    ],
+    "Reccoon": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Reccoon/2800369957_58f2b4906c_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Reccoon/4599526015_621601568e_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Reccoon/491727233_c13868b403_o.npy"
+    ],
+    "Owl": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Owl/1094505240_36818965fe_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Owl/516547009_33a9546c66_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Owl/4210142045_0af165c4b9_o.npy"
+    ],
+    "Bittern": [
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Bittern/5854460369_09d75c5e48_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Bittern/4552406955_232de312ba_o.npy",
+        "/media/ubuntu/cdb918a9-e3b3-40a1-bf0e-97b8b44001ca/YG/jungle-dataset/Ref/RefFeat_ICON-R/Bittern/1368027841_75a024b5df_o.npy"
+    ]
+}
