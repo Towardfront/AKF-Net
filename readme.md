@@ -1,4 +1,4 @@
-# 📚 Overvie
+# 📚 Overview
 The official implementation of "Adaptive Kernel Selection Module Combined with Feature Enhanced Perception Network for Camouflaged Object Detection"
 # 📦 Requirements
 - Python >= 3.9 
@@ -6,7 +6,7 @@ The official implementation of "Adaptive Kernel Selection Module Combined with F
 - Other dependencies can be found in requirements.txt
 # 🛠️ Usage
 ```bash
-https://github.com/Towardfront/AKF-Net.git
+git clone https://github.com/Towardfront/AKF-Net.git
 cd AKF-Net
 python train.py
 python test.py
