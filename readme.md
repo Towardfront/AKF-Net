@@ -25,4 +25,4 @@ python test.py
   doi={10.1109/TII.2025.3609076}}
 ```
 
-**Note:** We combined the encoders of two large vision models as the backbone, which resulted in significantly improved performance. Specifically, the updated model achieves competitive metrics, including $M \downarrow = 0.016$, $S_m \uparrow = 0.901$, $\alpha E \uparrow = 0.947$, and $wF \uparrow = 0.839$. Therefore, we have uploaded the latest version of the project.
+**Note:** We combined the encoders of two large vision models as the backbone, which resulted in significantly improved performance. Specifically, the updated model achieves competitive metrics on the R2C7K dataset, including $M \downarrow = 0.016$, $S_m \uparrow = 0.901$, $\alpha E \uparrow = 0.947$, and $wF \uparrow = 0.839$. Therefore, we have uploaded the latest version of the project.
